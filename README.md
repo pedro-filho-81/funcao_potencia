@@ -1,0 +1,2 @@
+# funcao_potencia
+ Função: Exponenciação Escreva uma função potenciaInt(base, expoente) que    retorne o valor de baseexpoente Por exemplo, potenciaInt( 3, 4) = 3 * 3 * 3 * 3.    Suponha que expoente seja um inteiro positivo, diferente de zero, e base seja    um inteiro. A função potenciaInt deve usar for para controlar o cálculo.    Não use funções da biblioteca matemática.    Deitel, Paul; Deitel, Harvey. C  Como Programar (Página 154).  . Edição do Kindle.    Pedro Filho, 09/11/2020*/
